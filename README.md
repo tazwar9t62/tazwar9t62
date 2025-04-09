@@ -13,12 +13,9 @@
 
 - 🌱 I love working with **React js**
 
-- 👨‍💻 All of my projects are available at [https://www.tazwar.me/#portfolio](https://www.tazwar.me/#portfolio)
-
-
 - 📫 How to reach me **tazwar9t6@protonmail.com**
 
-- 📄 Know about my experiences [https://www.tazwar.me/](https://www.tazwar.me/)
+- 📄 Know about my experiences [https://www.tazwar.info/](https://www.tazwar.info/)
 
 
 
