@@ -48,9 +48,13 @@ AWS · Docker · CI/CD · GitHub Actions · Xcode Cloud
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tazwar9t62&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tazwar9t62&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tazwar9t62&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tazwar9t62&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
